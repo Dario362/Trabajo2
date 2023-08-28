@@ -6,7 +6,7 @@ package maven.protectoenclase;
 
 /**
  *
- * @author 
+ * @author German
  */
 public class Alumno {
      private String nombre;
